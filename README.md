@@ -3,8 +3,9 @@
 ## Table of Contents
 
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
+* [Dataset characteristics](#dataset-characteristics)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -16,7 +17,28 @@ Business Problem: A bike renting business Boombike, severely impacted by covid i
   - how well those variables describe the bike demands
 
 The of this case study is to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the bike rent demand varies with different features. They can then accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
+	
+## Conclusions
 
+The top five factors contributing to demand of rented bikes are as below:
+year of renting (rate of change ~25% )
+feeling temprature (rate of change ~ 46%)
+humidity (rate of change ~-27%)
+windspeed (rate of change ~ -22%)
+Spring season (rate of change ~ -17%)
+The model strongly suggests that business can expect growth in coming years. The temprature rise causes a positive impact on the demand for bikes. Overall, the humidity, windspeed Spring season is when the demand for bike dips
+
+Please note the model is able to describe roughly .757 variance of bike demand.
+
+## Technologies Used
+
+seaborn 0.11.1
+jupyter 1.0.0
+numpy 1.20.1
+anaconda 2021.05
+python 3.8.8 
+matplotlib 3.3.4
+Microsoft excel
 
 # Dataset characteristics
 
@@ -42,30 +64,7 @@ day.csv have the following fields:
 	- casual: count of casual users
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
-	
-## Conclusions
-
-The top five factors contributing to demand of rented bikes are as below:
-year of renting (rate of change ~25% )
-feeling temprature (rate of change ~ 46%)
-humidity (rate of change ~-27%)
-windspeed (rate of change ~ -22%)
-Spring season (rate of change ~ -17%)
-The model strongly suggests that business can expect growth in coming years. The temprature rise causes a positive impact on the demand for bikes. Overall, the humidity, windspeed Spring season is when the demand for bike dips
-
-Please note the model is able to describe roughly .757 variance of bike demand.
-
-## Technologies Used
-
-seaborn 0.11.1
-jupyter 1.0.0
-numpy 1.20.1
-anaconda 2021.05
-python 3.8.8 
-matplotlib 3.3.4
-Microsoft excel
-
 
 ## Contact
 
-Created by [@NavsGo] - feel free to contact me!
+Created by [@NavsGo](@navsgo) - feel free to contact me!
