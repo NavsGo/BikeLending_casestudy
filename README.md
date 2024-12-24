@@ -21,14 +21,14 @@ The of this case study is to model the demand for shared bikes with the availabl
 ## Conclusions
 
 The top five factors contributing to demand of rented bikes are as below:
-year of renting (rate of change ~25% )
-feeling temprature (rate of change ~ 46%)
-humidity (rate of change ~-27%)
-windspeed (rate of change ~ -22%)
-Spring season (rate of change ~ -17%)
+- year of renting (rate of change **~25%** )
+- feeling temprature (rate of change ~ **46%**)
+- humidity (rate of change ~-**27%**)
+- windspeed (rate of change ~ **-22%)**
+- Spring season (rate of change ~ **-17%**)
 The model strongly suggests that business can expect growth in coming years. The temprature rise causes a positive impact on the demand for bikes. Overall, the humidity, windspeed Spring season is when the demand for bike dips
 
-Please note the model is able to describe roughly .757 variance of bike demand.
+Please note the model is able to describe ~ **.757 **variance of bike demand.
 
 ## Technologies Used
 
