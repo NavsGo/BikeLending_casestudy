@@ -11,12 +11,12 @@
 
 ## Introduction
 
-Business Problem: A bike renting business Boombike, severely impacted by covid is struggling to survive. They are looking  to make strategic decisions and come up with a business plan after lockdown.
+**Business Problem**: A bike renting business Boombike, severely impacted by covid is struggling to survive. They are looking  to make strategic decisions and come up with a business plan after lockdown.
  Based on the meteorological data collected over the last two years , they want to undestand: 
   - which variables are significant in predicting the demand for shared bikes.
   - how well those variables describe the bike demands
 
-The of this case study is to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the bike rent demand varies with different features. They can then accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
+The aim of this case study is to model the demand for shared bikes with the available independent variables. The model will be a good way for management to understand the demand dynamics of a new market. They can then accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. 
 	
 ## Conclusions
 
