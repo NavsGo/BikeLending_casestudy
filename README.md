@@ -21,8 +21,8 @@ The aim of this case study is to model the demand for shared bikes with the avai
 ## Conclusions
 
 The top five factors contributing to demand of rented bikes are as below:
-- feeling temperature (rate of change ~ **+46%**) i.e. a 100C change in 'feeling temperature' will result approx 46 more bikes demand
-- humidity (rate of change ~-**-27%**) i.e. a 100 unit change in humidity will reduce bike sharing demand by approx 27 bikes.
+- feeling temperature (rate of change ~ **+46%**) i.e. a 100C increase in 'feeling temperature' will result approx 46 more bikes demand
+- humidity (rate of change ~-**-27%**) i.e. a 100 unit increased in humidity will reduce bike sharing demand by approx 27 bikes.
 - year of renting (rate of change **~ +25%** ) i.e. each year we are expecting 25% increase in bike sharing demand
 - windspeed (rate of change ~ **-22%)** i.e. a 100 unit change in windspeed will result approx 22 more bikes demand.
 - Spring season (rate of change ~ **-17%**)  i.e. if the demand was 100 before Spring, the demand will reduce to 83 in spring.
